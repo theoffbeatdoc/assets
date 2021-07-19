@@ -1,0 +1,20 @@
+<svg width="741" height="203" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="hidden">
+    <defs>
+        <clipPath id="clip0">
+            <rect x="202" y="39" width="741" height="203"/>
+        </clipPath>
+    </defs>
+    <g clip-path="url(#clip0)" transform="translate(-202 -39)">
+        <text fill="#262626" font-family="Tw Cen MT,Tw Cen MT_MSFontService,sans-serif" font-weight="400" font-size="80" transform="translate(250.891 160)">
+        T
+            <tspan font-size="64" x="35" y="0">HE </tspan>
+            <tspan font-weight="700" font-size="80" x="119.333" y="0">O</tspan>
+            <tspan font-weight="700" font-size="64" x="178.5" y="0">FF</tspan>
+            <tspan font-weight="700" font-size="80" x="239.833" y="0">B</tspan>
+            <tspan font-weight="700" font-size="64" x="282.167" y="0">EAT </tspan>
+            <tspan font-weight="700" font-size="80" x="400.653" y="0">D</tspan>
+            <tspan font-weight="700" font-size="64" x="451.487" y="0">OC</tspan>
+            <tspan fill="#FF0000" font-weight="700" font-size="96" x="536.153" y="0">.</tspan>
+        </text>
+    </g>
+</svg>
